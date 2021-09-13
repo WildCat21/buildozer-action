@@ -1,13 +1,13 @@
 [app]
 
-title = Test App
-package.name = testapp
+title = Cows vs. Ducks
+package.name = cvd
 package.domain = org.test
 
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 
-version = 0.1
+version = 0.1.3
 requirements = python3,deta,PyQt5
 
 orientation = portrait
