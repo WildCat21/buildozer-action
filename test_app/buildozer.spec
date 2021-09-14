@@ -8,7 +8,7 @@ source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 
 version = 0.1.3
-requirements = python3,deta,PyQt5
+requirements = python3,deta,PyQt5,
 
 orientation = portrait
 fullscreen = 0
